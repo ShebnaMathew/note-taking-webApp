@@ -10,11 +10,13 @@ const AddCancel = props => {
                 <div className={state} tabindex="-1" role="button" aria-disabled="true" onClick={() => {
                     
                     let note = {project: props.project, type: props.type, title: props.title, text: props.text, url:props.url, color:props.color}
-                    props.callback([...props.data,note])
+                    props.clearForm()
+                    props.callback(note)
                 }}>
                     Add
                 </div>
                 <div className="btn btn-light btn-lg add-cancel" tabindex="-1" role="button">Cancel</div>
+                
             </div>
         </>
         

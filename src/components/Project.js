@@ -9,7 +9,10 @@ const Project = props => {
             <div className="row row-cols-2 row-cols-sm-3 row-cols-md-4">
                 {
                     Object.keys(notes).map((note,i) =>
-                    <Note key={i} project={props.project} type={notes[note].type} text={notes[note].text} title={notes[note].title} url={notes[note].url} />
+                    {
+                        console.log("rendering note: ", notes[note])
+                        return <Note key={i} project={props.project} type={notes[note].type} text={notes[note].text} title={notes[note].title} url={notes[note].url} color={notes[note].color}/>
+                    }
                 )}
             </div>
         </>

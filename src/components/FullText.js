@@ -4,7 +4,7 @@ const FullText = props => {
     return (
         <>
             <button type="button" className="btn btn-info" data-bs-toggle="modal" data-bs-target="#addNote">
-                Show complete text
+                Show content
             </button>
 
             <div className="modal fade" tabindex="-1" id="addNote" aria-labelledby="addNote" aria-hidden="true">

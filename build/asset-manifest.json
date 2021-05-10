@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/note-taking-webApp/static/css/main.440738b6.chunk.css",
-    "main.js": "/note-taking-webApp/static/js/main.2f66c13e.chunk.js",
-    "main.js.map": "/note-taking-webApp/static/js/main.2f66c13e.chunk.js.map",
-    "runtime-main.js": "/note-taking-webApp/static/js/runtime-main.70a86122.js",
-    "runtime-main.js.map": "/note-taking-webApp/static/js/runtime-main.70a86122.js.map",
+    "main.js": "/note-taking-webApp/static/js/main.bf7c5364.chunk.js",
+    "main.js.map": "/note-taking-webApp/static/js/main.bf7c5364.chunk.js.map",
+    "runtime-main.js": "/note-taking-webApp/static/js/runtime-main.787034ac.js",
+    "runtime-main.js.map": "/note-taking-webApp/static/js/runtime-main.787034ac.js.map",
     "static/css/2.150d169a.chunk.css": "/note-taking-webApp/static/css/2.150d169a.chunk.css",
-    "static/js/2.b992e0fc.chunk.js": "/note-taking-webApp/static/js/2.b992e0fc.chunk.js",
-    "static/js/2.b992e0fc.chunk.js.map": "/note-taking-webApp/static/js/2.b992e0fc.chunk.js.map",
-    "static/js/3.35104059.chunk.js": "/note-taking-webApp/static/js/3.35104059.chunk.js",
-    "static/js/3.35104059.chunk.js.map": "/note-taking-webApp/static/js/3.35104059.chunk.js.map",
+    "static/js/2.a65b9e81.chunk.js": "/note-taking-webApp/static/js/2.a65b9e81.chunk.js",
+    "static/js/2.a65b9e81.chunk.js.map": "/note-taking-webApp/static/js/2.a65b9e81.chunk.js.map",
+    "static/js/3.cb1bd623.chunk.js": "/note-taking-webApp/static/js/3.cb1bd623.chunk.js",
+    "static/js/3.cb1bd623.chunk.js.map": "/note-taking-webApp/static/js/3.cb1bd623.chunk.js.map",
     "index.html": "/note-taking-webApp/index.html",
     "static/css/2.150d169a.chunk.css.map": "/note-taking-webApp/static/css/2.150d169a.chunk.css.map",
     "static/css/main.440738b6.chunk.css.map": "/note-taking-webApp/static/css/main.440738b6.chunk.css.map",
-    "static/js/2.b992e0fc.chunk.js.LICENSE.txt": "/note-taking-webApp/static/js/2.b992e0fc.chunk.js.LICENSE.txt"
+    "static/js/2.a65b9e81.chunk.js.LICENSE.txt": "/note-taking-webApp/static/js/2.a65b9e81.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.70a86122.js",
+    "static/js/runtime-main.787034ac.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.b992e0fc.chunk.js",
+    "static/js/2.a65b9e81.chunk.js",
     "static/css/main.440738b6.chunk.css",
-    "static/js/main.2f66c13e.chunk.js"
+    "static/js/main.bf7c5364.chunk.js"
   ]
 }

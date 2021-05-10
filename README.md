@@ -1,4 +1,4 @@
-Take Notes
+# Note-taking app
 
 Application specifications:
 
